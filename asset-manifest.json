@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ToDone/static/css/main.23922f03.chunk.css",
-    "main.js": "/ToDone/static/js/main.83d0b916.chunk.js",
-    "main.js.map": "/ToDone/static/js/main.83d0b916.chunk.js.map",
+    "main.css": "/ToDone/static/css/main.b522ed6e.chunk.css",
+    "main.js": "/ToDone/static/js/main.fedb1939.chunk.js",
+    "main.js.map": "/ToDone/static/js/main.fedb1939.chunk.js.map",
     "runtime~main.js": "/ToDone/static/js/runtime~main.11c34067.js",
     "runtime~main.js.map": "/ToDone/static/js/runtime~main.11c34067.js.map",
     "static/js/2.977c668d.chunk.js": "/ToDone/static/js/2.977c668d.chunk.js",
     "static/js/2.977c668d.chunk.js.map": "/ToDone/static/js/2.977c668d.chunk.js.map",
     "index.html": "/ToDone/index.html",
-    "precache-manifest.61dd104fd1f66d6a47f9def87d070331.js": "/ToDone/precache-manifest.61dd104fd1f66d6a47f9def87d070331.js",
+    "precache-manifest.4f66ffd7f89008ea6df712f638435477.js": "/ToDone/precache-manifest.4f66ffd7f89008ea6df712f638435477.js",
     "service-worker.js": "/ToDone/service-worker.js",
-    "static/css/main.23922f03.chunk.css.map": "/ToDone/static/css/main.23922f03.chunk.css.map",
+    "static/css/main.b522ed6e.chunk.css.map": "/ToDone/static/css/main.b522ed6e.chunk.css.map",
     "static/media/index.css": "/ToDone/static/media/HelveticaNowText-Regular.c9442de9.woff"
   }
 }
