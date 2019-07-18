@@ -125,7 +125,7 @@ sub {
 }
 
 /* Helvetica */
-@font-face {
+/* @font-face {
   font-family: "Helvetica Light";
   src: url("./fonts/Helvetica-Light/Helvetica-Light.otf") format("opentype");
 }
@@ -138,10 +138,10 @@ sub {
 @font-face {
   font-family: "Helvetica Bold";
   src: url("./fonts/Helvetica-Bold/Helvetica-Bold.otf") format("opentype");
-}
+} */
 
 /* Helvetica Neue*/
-@font-face {
+/* @font-face {
   font-family: "Helvetica Neue";
   src: url("fonts/HelveticaNeue/HelveticaNeue-Regular.otf") format("opentype");
 }
@@ -164,12 +164,12 @@ sub {
 @font-face {
   font-family: "Helvetica Neue 75 Bold";
   src: url("fonts/HelveticaNeue/HelveticaNeue-75-Bold.otf") format("opentype");
-}
+} */
 
 /* Helvetica Now */
 
 /* Helvetica Now Display*/
-@font-face {
+/* @font-face {
   font-family: "Helvetica Now Display XLight";
   src: url("fonts/HelveticaNow/Display/HelveticaNowDisplay-ExtLt.woff")
       format("woff"),
@@ -183,7 +183,7 @@ sub {
       format("woff"),
     url("fonts/HelveticaNow/Display/HelveticaNowDisplay-Regular.woff2")
       format("woff2");
-}
+} */
 
 @font-face {
   font-family: "Helvetica Now Display XBold";
@@ -202,7 +202,7 @@ sub {
     url("fonts/HelveticaNow/Text/HelveticaNowText-Regular.woff2")
       format("woff2");
 }
-
+/* 
 @font-face {
   font-family: "Helvetica Now Text Medium";
   src: url("fonts/HelveticaNow/Text/HelveticaNowText-Medium.woff")
@@ -214,4 +214,4 @@ sub {
   font-family: "Helvetica Now Text Bold";
   src: url("fonts/HelveticaNow/Text/HelveticaNowText-Bold.woff") format("woff"),
     url("fonts/HelveticaNow/Text/HelveticaNowText-Bold.woff2") format("woff2");
-}
+} */
